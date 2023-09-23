@@ -10,7 +10,9 @@
 4. Срезы
 
 Пример выполнения представлен на рисунке: 
-![alt text](result.png)
+![alt text](1.png)
+![alt text](0.png)
+
 
 
    
